@@ -1,7 +1,7 @@
 "use client";
 import { Inter } from "next/font/google";
 import "@/styles/globals.css";
-import Footer from "@/components/footer/footer";
+import Footer from "@/components/shared/footer/footer";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
